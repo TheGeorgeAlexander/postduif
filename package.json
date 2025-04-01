@@ -1,0 +1,17 @@
+{
+  "name": "postduif",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/TheGeorgeAlexander/postduif#readme",
+  "bugs": {
+    "url": "https://github.com/TheGeorgeAlexander/postduif/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGeorgeAlexander/postduif.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/postduif.js"
+}
